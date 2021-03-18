@@ -6,7 +6,7 @@
 		html {height: 100%;}
 		body 
 		{
-			font-family: Helvetica;
+			font-family: Arial;
 			font-size:18px;
 			color:#F5F5F5;
 			background-image: url("https://kor.ill.in.ua/m/610x385/2401671.jpg");
@@ -56,7 +56,7 @@
 		    color: #ffff;
 		    font-size: 16px;
 		    text-shadow: 1px 1px 0px #1f1f1f;
-		    font-family: DoNotPress;
+		    font-family: Arial;
 		    font-weight: bold;
 		    display: inline-block;
 		}
